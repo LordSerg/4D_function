@@ -18,3 +18,13 @@ D:\_My_Math\_4D_function\4D_function\obj\Debug\4D_function.csproj.GenerateResour
 D:\_My_Math\_4D_function\4D_function\obj\Debug\4D_function.csproj.CoreCompileInputs.cache
 D:\_My_Math\_4D_function\4D_function\obj\Debug\4D_function.exe
 D:\_My_Math\_4D_function\4D_function\obj\Debug\4D_function.pdb
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\bin\Debug\4D_function.exe.config
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\bin\Debug\4D_function.exe
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\bin\Debug\4D_function.pdb
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\_4D_function.Form1.resources
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\_4D_function.Properties.Resources.resources
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\4D_function.csproj.GenerateResource.cache
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\4D_function.csproj.CoreCompileInputs.cache
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\4D_function.exe
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\4D_function.pdb
+D:\_My_Math\!GrafixEngins\_4D_function\4D_function\obj\Debug\4D_function.csproj.AssemblyReference.cache

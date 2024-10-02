@@ -10,13 +10,29 @@ This project was born as a result of my work in [building n-dimensional cubes](h
 Having in hands these technologies I've come to the idea of multidimensional functions, that can be rotated.
 
 ## Program example
-Here is the default function for demonstration:
-Here is the default function for demonstration:
+### Here is the default function for demonstration:
 ![default function](animations/dflt_function.gif)
 
-Here is some user-input-function:
+$$
+f:\begin{cases} 
+x & = & 300 * \sin(k)^3 \\
+y & = & 300 * \cos(k) \sin(k)^2 \\
+z & = & 300 * \cos(k) \sin(k) \\
+t & = & 300 * \cos(k) \\
+\end{cases}
+$$
+
+### Here is some user-input-function:
 ![user function](animations/usr_function.gif)
 
+$$
+f:\begin{cases} 
+x & = & 300 * \sin(k^2) \\
+y & = & 300 * \cos(k) \\
+z & = & 300 * \cos(k) \sin(k) \\
+t & = & 300 * \sin(5k) \\
+\end{cases}
+$$
 
 ## Brief math explanation
 ### Rotation

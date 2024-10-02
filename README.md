@@ -11,10 +11,11 @@ Having in hands these technologies I've come to the idea of multidimensional fun
 
 ## Program example
 Here is the default function for demonstration:
-![]()
+Here is the default function for demonstration:
+![default function](animations/dflt_function.gif)
 
 Here is some user-input-function:
-![]()
+![user function](animations/usr_function.gif)
 
 
 ## Brief math explanation
